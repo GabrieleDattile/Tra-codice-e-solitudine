@@ -19,7 +19,7 @@ Studiare per diventare un programmatore o un pentester è, spesso, un mix di pia
 
 Forse, in fondo, tutto questo stress e insoddisfazione nascono dalla paura di fallire. La paura di non essere all'altezza, di aver sacrificato troppo per poi non ottenere ciò che speravi. A volte, ti senti solo e dubbioso, chiedendoti se ne vale davvero la pena. E forse, in quei momenti, pensi di essere un codardo per non aver ancora mollato, per continuare a lottare nonostante tutto.
 
-### Conclusione
+### La verità
 
 La verità è che non c'è una risposta semplice. Ognuno deve trovare il proprio equilibrio, capire se i sacrifici valgono il risultato. Io stesso sto cercando di staccare un po' o di trovare un equilibrio, anche se so che non sarà facile e potrebbe continuare a rendermi infelice. Mi rendo conto che questo lavoro mi porta vicino alla depressione, ma voglio credere che alla fine riuscirò a trovare una strada migliore.
 
